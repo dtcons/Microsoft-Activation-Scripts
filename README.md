@@ -4,5 +4,5 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 
 ```
 Latest Version: 1.8
-Release date: 16-Mar-2023
+Release date: 10-Apr-2023
 ```
