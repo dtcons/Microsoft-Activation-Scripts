@@ -8,9 +8,6 @@
 ::
 ::   This script is a part of 'Microsoft Activation Scripts' (MAS) project.
 ::
-::   Homepage: massgrave.dev
-::      Email: windowsaddict@protonmail.com
-::
 ::============================================================================
 
 
